@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+flickr30k_images
+model_weight
+encoded_train_images.pkl
+glove.6B.200d.txt
+glove6b200d.zip
+results
